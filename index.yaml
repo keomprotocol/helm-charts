@@ -3,7 +3,7 @@ entries:
   pyth-pusher:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-01T18:35:55.978304926+02:00"
+    created: "2023-12-01T18:39:52.28806198+02:00"
     description: A Helm chart for deploying Pythnet price pusher
     digest: 08cc88894760d5c147d615f332a6a88e906a8e468e556d50d70506737323df40
     name: pyth-pusher
@@ -11,4 +11,4 @@ entries:
     urls:
     - http://charts.keom.io/pyth-pusher-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-01T18:35:55.976687225+02:00"
+generated: "2023-12-01T18:39:52.287746522+02:00"
